@@ -59,3 +59,10 @@ CREATE TABLE Employee (
 ## 🏆 Conclusion
 
 Automate payroll, minimize errors, and maintain transparent salary disbursements. Boost satisfaction for management and staff!
+
+## Support Development
+
+This project is free and open source. If you find it useful, you can support continued development through:
+
+- [GitHub Sponsors](https://github.com/sponsors/anshdeepofficial)
+- [Buy Me a Coffee](https://buymeacoffee.com/anshdeepofficial)
