@@ -6,10 +6,10 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Project](https://img.shields.io/badge/Type-Management%20System-111827?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/anshdeepofficial/Employee-Payroll-Management-System?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/anshdeepofficial1/Employee-Payroll-Management-System?style=for-the-badge&logo=github)
 
-<a href="https://github.com/sponsors/anshdeepofficial"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
-<a href="https://buymeacoffee.com/anshdeepofficial"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy Me a Coffee" /></a>
+<a href="https://github.com/sponsors/anshdeepofficial1"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
+<a href="https://buymeacoffee.com/anshdeepofficial1"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy Me a Coffee" /></a>
 
 </div>
 
@@ -46,7 +46,7 @@ Employee Payroll Management System is designed around the core workflow of maint
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/anshdeepofficial/Employee-Payroll-Management-System.git
+git clone https://github.com/anshdeepofficial1/Employee-Payroll-Management-System.git
 cd Employee-Payroll-Management-System
 ```
 
@@ -63,5 +63,5 @@ Contributions that improve schema quality, validation, payroll logic, or documen
 ---
 
 <div align="center">
-Built by <a href="https://github.com/anshdeepofficial">Anshdeep Singh</a>
+Built by <a href="https://github.com/anshdeepofficial1">Anshdeep Singh</a>
 </div>
